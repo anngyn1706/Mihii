@@ -151,7 +151,7 @@ body{
 .listSlider{
     position: relative;
     width: 200px;
-    height: 100px;
+    height: 210px;
     display: flex;
     overflow: hidden;
     border-radius: 10px;
@@ -564,8 +564,8 @@ body{
 }
 .boxLetter .formLetter{
     position: relative;
-    width: 600px;
-    height: 350px;
+    width: 800px;
+    height: 450px;
     background-color: #FFEBEB;
     border-radius: 20px;
     z-index: 100;
@@ -636,8 +636,9 @@ body{
 }
 .giftbox .img{
     position: absolute;
-    width: 180px;
-    bottom: -10px;
+    width: 240px;
+
+    bottom: 20px;
     left: 50px;
     z-index: 100;
 }
@@ -654,11 +655,11 @@ body{
 }
 .textLetter h2{
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Dancing Script', cursive;
 }
 .textLetter .contentLetter{
-    font-size: 19px;
+    font-size: 20px;
     text-align: center;
     padding: 0px 10px;
     margin-top: 10px;
@@ -690,11 +691,11 @@ body{
 }
 .mewmew1{
     bottom: 0;
-    left: 0;
+    left: -10px;
 }
 .mewmew2{
     bottom: 0;
-    right: 0;
+    right: -10px;
 }
 .mewmew1 img, .mewmew2 img{
     width: 100%;
